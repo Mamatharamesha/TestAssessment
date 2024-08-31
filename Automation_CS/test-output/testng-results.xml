@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T07:22:34 GMT-07:00" name="Default suite" finished-at="2024-08-31T07:25:01 GMT-07:00" duration-ms="146857">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T07:22:34 GMT-07:00" name="Default test" finished-at="2024-08-31T07:25:01 GMT-07:00" duration-ms="146857">
+      <class name="testcase.Testcase1">
+        <test-method signature="TestCaseInChrome()[pri:0, instance:testcase.Testcase1@156b88f5]" started-at="2024-08-31T07:22:35 GMT-07:00" name="TestCaseInChrome" finished-at="2024-08-31T07:23:45 GMT-07:00" duration-ms="70355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseInChrome -->
+        <test-method signature="TestCaseInFirefox()[pri:0, instance:testcase.Testcase1@156b88f5]" started-at="2024-08-31T07:23:45 GMT-07:00" name="TestCaseInFirefox" finished-at="2024-08-31T07:25:01 GMT-07:00" duration-ms="76341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseInFirefox -->
+      </class> <!-- testcase.Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
